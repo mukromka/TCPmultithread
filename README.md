@@ -15,6 +15,6 @@ Berikut merupakan screenshot hasil dari program aplikasi chat
 
 # Flowchart Diagram
 Berikut Flow Chart alur cara mengirim pesannya :
-![BISMILLAH FIX FLOWDIAGRAMNYA](https://user-images.githubusercontent.com/63990352/125122718-02f8e080-e120-11eb-82bb-f49cb88cbc5b.png)
+![bismillah fix yg ini T_T](https://user-images.githubusercontent.com/63990352/125123447-e0b39280-e120-11eb-970b-7290da471bd9.png)
 
 
