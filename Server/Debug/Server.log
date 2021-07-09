@@ -1,0 +1,4 @@
+﻿  Server.cpp
+D:\laptop hp aas yg lama\aaaaa  TUGAS AAS PENS 2019\semester 4\Jaringan Komputer\TCP-Chat\Server\Server.cpp(84,25): warning C4018: '<': signed/unsigned mismatch
+D:\laptop hp aas yg lama\aaaaa  TUGAS AAS PENS 2019\semester 4\Jaringan Komputer\TCP-Chat\Server\Server.cpp(138,27): warning C4018: '<': signed/unsigned mismatch
+  Server.vcxproj -> D:\laptop hp aas yg lama\aaaaa  TUGAS AAS PENS 2019\semester 4\Jaringan Komputer\TCP-Chat\Server\Debug\Server.exe

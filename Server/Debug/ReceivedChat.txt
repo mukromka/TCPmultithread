@@ -1,0 +1,6 @@
+SOCKET #284:tess
+SOCKET #300:satu
+SOCKET #292:dua
+SOCKET #296:tiga
+SOCKET #284:okee
+Client 1 :asd
