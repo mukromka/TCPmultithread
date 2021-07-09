@@ -1,6 +1,6 @@
 # TCP
-Tugas Akhir Jaringan Komputer
-4210191028 Mukrom Karunia Azza
+-Tugas Akhir Jaringan Komputer
+-4210191028 Mukrom Karunia Azza
 
 # Cara instalasi
 - download file
@@ -15,5 +15,6 @@ Berikut merupakan screenshot hasil dari program aplikasi chat
 
 # Flowchart Diagram
 Berikut Flow Chart alur cara mengirim pesannya :
-![TCP Chat FlowChart (1)](https://user-images.githubusercontent.com/63990352/125109750-f10e4200-e10d-11eb-927e-f5a6af6d020c.png)
+![TCP Chat FlowChart (2)](https://user-images.githubusercontent.com/63990352/125112550-865f0580-e111-11eb-9d1b-8fe15b375e16.png)
+
 
