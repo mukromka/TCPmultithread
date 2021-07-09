@@ -1,6 +1,6 @@
 # TCP
--Tugas Akhir Jaringan Komputer
--4210191028 Mukrom Karunia Azza
+Tugas Akhir Jaringan Komputer
+4210191028 Mukrom Karunia Azza
 
 # Cara instalasi
 - download file
